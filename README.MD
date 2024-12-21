@@ -9,6 +9,10 @@ The **Language Challenge Leaderboards** is a smart contract deployed on the Ethe
 0xd9145CCE52D386f254917e481eB44e9943F39138
 
 
+ss
+
+https://ibb.co/StYk5Cy
+
 ## Key Features
 
 - **Player Registration**: Players can register with their name and an initial score. The contract records this information tied to their Ethereum address.
